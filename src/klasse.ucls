@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="game.room.data.Zes" project="gameServer" 
+    file="/gameServer/src/game/room/data/Zes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="8543" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="game.room.data.Vier" project="gameServer" 
+    file="/gameServer/src/game/room/data/Vier.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="8833" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="game.commands.all.Timeleft" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Timeleft.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="195" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="game.test.Tests" project="gameServer" file="/gameServer/src/game/test/Tests.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="386" x="47" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="game.commands.all.Serverpickup" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Serverpickup.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="488" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="game.commands.all.Talk" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Talk.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="781" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="7" language="java" name="game.game.entity" project="gameServer" file="/gameServer/src/game/game/entity" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="147" x="556" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="8" language="java" name="game.room.data.Zestien" project="gameServer" 
+    file="/gameServer/src/game/room/data/Zestien.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="9144" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="game.game.entity.objects.PlayerObject" project="gameServer" 
+    file="/gameServer/src/game/game/entity/objects/PlayerObject.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="184" x="8300" y="3696"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="game.room.data.Vijftien" project="gameServer" 
+    file="/gameServer/src/game/room/data/Vijftien.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="9949" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="game.commands.all.Look" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Look.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="1074" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="12" language="java" name="game.sound" project="gameServer" file="/gameServer/src/game/sound" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="827" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="13" language="java" name="game.configs.Global" project="gameServer" 
+    file="/gameServer/src/game/configs/Global.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="466" width="277" x="1074" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="game.commands.all.Eet" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Eet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="1367" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="game.commands.all.Unequip" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Unequip.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="1660" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="game.sound.Sound" project="gameServer" 
+    file="/gameServer/src/game/sound/Sound.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="246" x="1477" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="game.commands.all.Attacknpc" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Attacknpc.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="1953" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="game.commands.input.Parser" project="gameServer" 
+    file="/gameServer/src/game/commands/input/Parser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="232" width="261" x="7482" y="2938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="game.room.data.Een" project="gameServer" 
+    file="/gameServer/src/game/room/data/Een.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="10239" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="20" language="java" name="game.room.RoomTypes" project="gameServer" 
+    file="/gameServer/src/game/room/RoomTypes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="232" width="216" x="10529" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <package id="21" language="java" name="game.food" project="gameServer" file="/gameServer/src/game/food" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1850" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="22" language="java" name="game.commands.ProcessCommand" project="gameServer" 
+    file="/gameServer/src/game/commands/ProcessCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="376" width="367" x="7402" y="709"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="game.game.entity.Player" project="gameServer" 
+    file="/gameServer/src/game/game/entity/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="646" width="318" x="8122" y="2938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="game.game.items.Item" project="gameServer" 
+    file="/gameServer/src/game/game/items/Item.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="322" width="171" x="8089" y="3696"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="game.frame.Frame" project="gameServer" 
+    file="/gameServer/src/game/frame/Frame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="718" width="245" x="7197" y="2938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="game.commands.all.Send" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Send.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="2246" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="27" language="java" name="game.frame" project="gameServer" file="/gameServer/src/game/frame" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="2100" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="28" language="java" name="game.room.RoomsHandler" project="gameServer" 
+    file="/gameServer/src/game/room/RoomsHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="232" width="350" x="8111" y="709"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="game.game.Game" project="gameServer" file="/gameServer/src/game/game/Game.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="862" width="324" x="8127" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="game.commands.all.Setname" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Setname.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="2539" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="31" language="java" name="game.util" project="gameServer" file="/gameServer/src/game/util" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="2351" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="32" language="java" name="game.room.load" project="gameServer" file="/gameServer/src/game/room/load" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="136" x="2603" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="33" language="java" name="game.room.data.Tien" project="gameServer" 
+    file="/gameServer/src/game/room/data/Tien.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="10785" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="game.room.data.Twaalf" project="gameServer" 
+    file="/gameServer/src/game/room/data/Twaalf.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="11075" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="game.commands.LoaderEnumHandler" project="gameServer" 
+    file="/gameServer/src/game/commands/LoaderEnumHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="311" x="7451" y="3696"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="game.room.RoomAbstractLoading" project="gameServer" 
+    file="/gameServer/src/game/room/RoomAbstractLoading.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="861" width="345" x="11075" y="1125"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="game.commands.all.Back" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Back.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="2832" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="game.room.Room" project="gameServer" file="/gameServer/src/game/room/Room.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="316" x="8524" y="3696"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="game.dialogue.DialoguePlayerVsNPC" project="gameServer" 
+    file="/gameServer/src/game/dialogue/DialoguePlayerVsNPC.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="298" x="15381" y="2938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="game.commands.all.Room" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Room.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="3125" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="game.game.entity.NPC" project="gameServer" 
+    file="/gameServer/src/game/game/entity/NPC.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="430" width="454" x="9455" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="game.util.ClassFinder" project="gameServer" 
+    file="/gameServer/src/game/util/ClassFinder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="218" x="2870" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="game.server.Server" project="gameServer" 
+    file="/gameServer/src/game/server/Server.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="232" width="262" x="7809" y="709"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="44" language="java" name="game.game.entity.objects" project="gameServer" 
+    file="/gameServer/src/game/game/entity/objects" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="202" x="3220" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="45" language="java" name="game.room.data.Acht" project="gameServer" 
+    file="/gameServer/src/game/room/data/Acht.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="11365" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="game.game.entity.NPCHandler" project="gameServer" 
+    file="/gameServer/src/game/game/entity/NPCHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="208" x="8921" y="1125"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="47" language="java" name="game.commands.CommandWordsEnum" project="gameServer" 
+    file="/gameServer/src/game/commands/CommandWordsEnum.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="664" width="280" x="7783" y="4058"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <package id="48" language="java" name="game.commands" project="gameServer" file="/gameServer/src/game/commands" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="141" x="3555" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="49" language="java" name="game.commands.all.Myplayer" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Myplayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="3418" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="game.dialogue.DialogueNPC" project="gameServer" 
+    file="/gameServer/src/game/dialogue/DialogueNPC.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="479" x="12734" y="709"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="game.commands.all.Pickup" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Pickup.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="3711" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="52" language="java" name="game.game.items" project="gameServer" file="/gameServer/src/game/game/items" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="146" x="3830" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="53" language="java" name="game.room.data.Achttien" project="gameServer" 
+    file="/gameServer/src/game/room/data/Achttien.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="11655" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="54" language="java" name="game.room.data" project="gameServer" file="/gameServer/src/game/room/data" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="136" x="4111" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="55" language="java" name="game.commands.all.Prev" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Prev.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="4004" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="56" language="java" name="game.dialogue.DialogueOption" project="gameServer" 
+    file="/gameServer/src/game/dialogue/DialogueOption.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="173" x="15381" y="3696"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="57" language="java" name="game.game.items.ItemHandler" project="gameServer" 
+    file="/gameServer/src/game/game/items/ItemHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="148" x="8543" y="1125"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="game.commands.all.Los" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Los.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="4297" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="game.commands.all.Empty" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Empty.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="4590" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="game.commands.all.Eat" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Eat.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="4883" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="61" language="java" name="game.game.combat" project="gameServer" file="/gameServer/src/game/game/combat" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="159" x="4383" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="62" language="java" name="game.room" project="gameServer" file="/gameServer/src/game/room" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="4679" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <enumeration id="63" language="java" name="game.game.combat.Weapons" project="gameServer" 
+    file="/gameServer/src/game/game/combat/Weapons.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="430" width="217" x="4939" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="64" language="java" name="game.dialogue.DialogueHandler" project="gameServer" 
+    file="/gameServer/src/game/dialogue/DialogueHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="439" x="8503" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="game.room.data.Veertien" project="gameServer" 
+    file="/gameServer/src/game/room/data/Veertien.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="11945" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="game.room.data.Twintig" project="gameServer" 
+    file="/gameServer/src/game/room/data/Twintig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="12235" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="game.frame.MoveFrame" project="gameServer" 
+    file="/gameServer/src/game/frame/MoveFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="140" x="7197" y="3696"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="68" language="java" name="game.commands.all" project="gameServer" 
+    file="/gameServer/src/game/commands/all" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="161" x="5295" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="69" language="java" name="game.commands.all.Wearitem" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Wearitem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="5176" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="70" language="java" name="game.commands.all.Useitem" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Useitem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="5469" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="71" language="java" name="game.commands.all.Unknown" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Unknown.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="5762" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="72" language="java" name="game.game" project="gameServer" file="/gameServer/src/game/game" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="5596" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="73" language="java" name="game.room.data.Zeventien" project="gameServer" 
+    file="/gameServer/src/game/room/data/Zeventien.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="12525" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="game.commands.all.Serverroom" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Serverroom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="6055" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="75" language="java" name="game.room.data.Negen" project="gameServer" 
+    file="/gameServer/src/game/room/data/Negen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="12815" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="76" language="java" name="game.game.Main" project="gameServer" file="/gameServer/src/game/game/Main.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="130" x="5859" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="77" language="java" name="game.commands.CommandCommands" project="gameServer" 
+    file="/gameServer/src/game/commands/CommandCommands.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="186" x="6131" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="78" language="java" name="game.server" project="gameServer" file="/gameServer/src/game/server" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="6460" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="79" language="java" name="game.commands.all.Go" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Go.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="6348" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="80" language="java" name="game.room.data.Twee" project="gameServer" 
+    file="/gameServer/src/game/room/data/Twee.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="13105" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="81" language="java" name="game.commands.CommandAction" project="gameServer" 
+    file="/gameServer/src/game/commands/CommandAction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="299" x="7783" y="2938"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="82" language="java" name="game.room.data.Negentien" project="gameServer" 
+    file="/gameServer/src/game/room/data/Negentien.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="13395" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="83" language="java" name="game.room.data.Dertien" project="gameServer" 
+    file="/gameServer/src/game/room/data/Dertien.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="13685" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="84" language="java" name="game.server.Server.Handler" project="gameServer" 
+    file="/gameServer/src/game/server/Server.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="322" width="176" x="7872" y="1125"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="85" language="java" name="game.food.Food" project="gameServer" 
+    file="/gameServer/src/game/food/Food.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="168" x="6726" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="86" language="java" name="game.commands.all.Pak" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Pak.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="6641" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="87" language="java" name="game.configs" project="gameServer" file="/gameServer/src/game/configs" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="7038" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="88" language="java" name="game.room.load.LoadClasses" project="gameServer" 
+    file="/gameServer/src/game/room/load/LoadClasses.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="150" x="8731" y="1125"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="89" language="java" name="game.test" project="gameServer" file="/gameServer/src/game/test" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="7305" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="90" language="java" name="game.commands.HandleAbstractCommands" project="gameServer" 
+    file="/gameServer/src/game/commands/HandleAbstractCommands.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="141" width="254" x="4297" y="1125"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="91" language="java" name="game.commands.all.Dropitem" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Dropitem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="6934" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="92" language="java" name="game.room.data.Drie" project="gameServer" 
+    file="/gameServer/src/game/room/data/Drie.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="13975" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="93" language="java" name="game.commands.all.Quit" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Quit.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="7227" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="94" language="java" name="game.room.RoomDirections" project="gameServer" 
+    file="/gameServer/src/game/room/RoomDirections.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="233" x="14265" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <package id="95" language="java" name="game.dialogue" project="gameServer" file="/gameServer/src/game/dialogue" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="127" x="7573" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="96" language="java" name="game.room.data.Zeven" project="gameServer" 
+    file="/gameServer/src/game/room/data/Zeven.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="14538" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="97" language="java" name="game.room.data.Elf" project="gameServer" 
+    file="/gameServer/src/game/room/data/Elf.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="14828" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="98" language="java" name="game.commands.all.Help" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Help.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="7520" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="99" language="java" name="game.commands.input" project="gameServer" 
+    file="/gameServer/src/game/commands/input" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="181" x="7847" y="203"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="100" language="java" name="game.commands.all.Myitems" project="gameServer" 
+    file="/gameServer/src/game/commands/all/Myitems.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="253" x="7813" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="101" language="java" name="game.frame.KeyListening" project="gameServer" 
+    file="/gameServer/src/game/frame/KeyListening.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="190" x="-35" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="102" language="java" name="game.game.combat.Misc" project="gameServer" 
+    file="/gameServer/src/game/game/combat/Misc.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="358" width="178" x="8176" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="103" language="java" name="game.room.data.Eenentwintig" project="gameServer" 
+    file="/gameServer/src/game/room/data/Eenentwintig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="15118" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="104" language="java" name="game.room.data.Vijf" project="gameServer" 
+    file="/gameServer/src/game/room/data/Vijf.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="250" x="15408" y="2026"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="105">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="106" name="validCommands"/>      
+      <multiplicity id="107" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="108">    
+    <end type="SOURCE" refId="92"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <association id="109">    
+    <end type="SOURCE" refId="88" navigable="false">      
+      <attribute id="110" name="game"/>      
+      <multiplicity id="111" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="112">    
+    <bendpoint x="8141" y="1125"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="113" name="roomsHandler"/>      
+      <multiplicity id="114" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="115">    
+    <bendpoint x="8491" y="709"/>    
+    <bendpoint x="8470" y="1125"/>    
+    <end type="SOURCE" refId="64" navigable="false">      
+      <attribute id="116" name="game"/>      
+      <multiplicity id="117" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="118">    
+    <bendpoint x="15688" y="1125"/>    
+    <bendpoint x="15688" y="2026"/>    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="119" name="dialogue"/>      
+      <multiplicity id="120" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="121">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="122" name="move"/>      
+      <multiplicity id="123" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="67" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="124">    
+    <bendpoint x="7784" y="1125"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="125" name="commmandHandler"/>      
+      <multiplicity id="126" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="127">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="128" name="directions"/>      
+      <multiplicity id="129" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="94" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="130">    
+    <end type="SOURCE" refId="83"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <generalization id="131">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <association id="132">    
+    <bendpoint x="7792" y="3696"/>    
+    <end type="SOURCE" refId="81" navigable="false">      
+      <attribute id="133" name="commandWord"/>      
+      <multiplicity id="134" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="135">    
+    <end type="SOURCE" refId="97"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <generalization id="136">    
+    <end type="SOURCE" refId="70"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <association id="137">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="138" name="stackCommands"/>      
+      <multiplicity id="139" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="140">    
+    <bendpoint x="8096" y="2026"/>    
+    <end type="SOURCE" refId="84" navigable="false">      
+      <attribute id="141" name="player"/>      
+      <multiplicity id="142" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="143">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="144" name="frameHandler"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="146">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="147" name="room"/>      
+      <multiplicity id="148" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="149">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="150" name="game"/>      
+      <multiplicity id="151" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="152">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="84"/>  
+  </nesting>  
+  <association id="153">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="154" name="type"/>      
+      <multiplicity id="155" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="156">    
+    <bendpoint x="8099" y="1125"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="157" name="server"/>      
+      <multiplicity id="158" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="159">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="160" name="game"/>      
+      <multiplicity id="161" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="162">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="163" name="npcs"/>      
+      <multiplicity id="164" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="165">    
+    <bendpoint x="8512" y="2026"/>    
+    <bendpoint x="8512" y="2938"/>    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="166" name="objects"/>      
+      <multiplicity id="167" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="168">    
+    <end type="SOURCE" refId="82"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <association id="169">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="170" name="gear"/>      
+      <multiplicity id="171" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="172">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <association id="173">    
+    <bendpoint x="8120" y="1125"/>    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="174" name="game"/>      
+      <multiplicity id="175" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="176">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <generalization id="177">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <generalization id="178">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <generalization id="179">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <association id="180">    
+    <bendpoint x="7763" y="1125"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="181" name="game"/>      
+      <multiplicity id="182" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="183">    
+    <bendpoint x="8491" y="2938"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="184" name="currentRoom"/>      
+      <multiplicity id="185" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="186">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="187">    
+    <end type="SOURCE" refId="91"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="188">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <association id="189">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="190" name="beamer"/>      
+      <multiplicity id="191" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="192">    
+    <end type="SOURCE" refId="73"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <generalization id="193">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <generalization id="194">    
+    <end type="SOURCE" refId="103"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <generalization id="195">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="196">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <generalization id="197">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <association id="198">    
+    <end type="SOURCE" refId="84" navigable="false">      
+      <attribute id="199" name="game"/>      
+      <multiplicity id="200" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="201">    
+    <end type="SOURCE" refId="101" navigable="false">      
+      <attribute id="202" name="frame"/>      
+      <multiplicity id="203" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="204">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <association id="205">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="206" name="objectsInventory"/>      
+      <multiplicity id="207" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="208">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <association id="209">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="210" name="connections"/>      
+      <multiplicity id="211" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="212">    
+    <end type="SOURCE" refId="69"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="213">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <association id="214">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="215" name="itemHandler"/>      
+      <multiplicity id="216" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="217">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="218" name="loadRoom"/>      
+      <multiplicity id="219" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="88" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="220">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <association id="221">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="222" name="player"/>      
+      <multiplicity id="223" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="224">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="225">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="226">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="227">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="228">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="229">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <association id="230">    
+    <end type="SOURCE" refId="90" navigable="false">      
+      <attribute id="231" name="game"/>      
+      <multiplicity id="232" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="233">    
+    <end type="SOURCE" refId="75"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <association id="234">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="235" name="gameRooms"/>      
+      <multiplicity id="236" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="237">    
+    <bendpoint x="8470" y="2938"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="238" name="stackRooms"/>      
+      <multiplicity id="239" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="240">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <generalization id="241">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <association id="242">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="243" name="commands"/>      
+      <multiplicity id="244" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="90" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="245">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="246" name="game"/>      
+      <multiplicity id="247" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="248">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="249" name="option"/>      
+      <multiplicity id="250" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="251">    
+    <end type="SOURCE" refId="79"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="252">    
+    <end type="SOURCE" refId="86"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="253">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <generalization id="254">    
+    <end type="SOURCE" refId="100"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="255">    
+    <end type="SOURCE" refId="104"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <association id="256">    
+    <end type="SOURCE" refId="64" navigable="false">      
+      <attribute id="257" name="dialogue"/>      
+      <multiplicity id="258" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="259">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="260">    
+    <end type="SOURCE" refId="93"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <association id="261">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="262" name="commands"/>      
+      <multiplicity id="263" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="264">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="265" name="npc"/>      
+      <multiplicity id="266" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="267">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="268" name="npcs"/>      
+      <multiplicity id="269" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="270">    
+    <end type="SOURCE" refId="96"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <generalization id="271">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="272">    
+    <end type="SOURCE" refId="98"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <association id="273">    
+    <bendpoint x="9424" y="2026"/>    
+    <bendpoint x="9424" y="2938"/>    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="274" name="room"/>      
+      <multiplicity id="275" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="276">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="36"/>  
+  </generalization>  
+  <association id="277">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="278" name="dialogue"/>      
+      <multiplicity id="279" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="280">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="281" name="game"/>      
+      <multiplicity id="282" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="283">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="284" name="parser"/>      
+      <multiplicity id="285" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="286">    
+    <bendpoint x="8078" y="1125"/>    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="287" name="game"/>      
+      <multiplicity id="288" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="289">    
+    <bendpoint x="9113" y="2026"/>    
+    <bendpoint x="9113" y="2938"/>    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="290" name="toRoom"/>      
+      <multiplicity id="291" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="292">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <generalization id="293">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <association id="294">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="295" name="exists"/>      
+      <multiplicity id="296" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="297">    
+    <bendpoint x="8491" y="1125"/>    
+    <bendpoint x="8491" y="2026"/>    
+    <bendpoint x="8533" y="2938"/>    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="298" name="rooms"/>      
+      <multiplicity id="299" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="300">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="301" name="game"/>      
+      <multiplicity id="302" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="303">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="304" name="room"/>      
+      <multiplicity id="305" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="306">    
+    <bendpoint x="8512" y="1125"/>    
+    <bendpoint x="8512" y="709"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="307" name="dialogueHandler"/>      
+      <multiplicity id="308" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="309">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="310" name="game"/>      
+      <multiplicity id="311" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="312">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="90"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
